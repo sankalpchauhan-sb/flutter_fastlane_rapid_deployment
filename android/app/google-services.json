@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392400002078",
+    "project_id": "fastlane-test-dd64e",
+    "storage_bucket": "fastlane-test-dd64e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392400002078:android:a7f17d4d1522076cce220f",
+        "android_client_info": {
+          "package_name": "com.example.fastlane_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392400002078-lqaurf4hm359omq1bijah8vho6f0tfl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACmPg0wXrWewFrrJfkC0xZuTygYQaVsLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392400002078-lqaurf4hm359omq1bijah8vho6f0tfl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
